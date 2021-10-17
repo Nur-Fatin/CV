@@ -92,8 +92,6 @@ ul {
 .quote-img{
     width: 100vw;
     margin: 80px auto;
-
-
 }
 
 .education{
@@ -112,6 +110,14 @@ ul {
     background-color: #f7f6f4;
     width: 90%;
     margin: 50px auto;
+}
+
+.first-skill-section {
+    display: inline-block;   
+}
+
+.second-skill-section {
+    float: right; 
 }
 
 .skill-name {
