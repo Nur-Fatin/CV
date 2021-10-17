@@ -79,15 +79,15 @@ ul {
 }
 
 .profile-img {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     padding: 50px 0 30px 0;
 }
 
 .subtitle {
       font-size: 2.5rem;
       width: 70%;
-      margin: 0 auto 30px;
+      margin: 0 auto 50px;
 }
 
 .pro-subtitle {
